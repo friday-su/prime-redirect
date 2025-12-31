@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://primeshows.uk",
-      "permanent": true
-    }
-  ]
-}
